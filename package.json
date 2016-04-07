@@ -1,0 +1,25 @@
+{
+  "name": "modem-manager",
+  "version": "0.0.1",
+  "description": "Manage one or more gsm modem connected to serial port using AT commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MauroJr/modem-manager.git"
+  },
+  "keywords": [
+    "modem",
+    "GSM",
+    "serialport",
+    "pdu"
+  ],
+  "author": "Mauro Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauroJr/modem-manager/issues"
+  },
+  "homepage": "https://github.com/MauroJr/modem-manager#readme"
+}
